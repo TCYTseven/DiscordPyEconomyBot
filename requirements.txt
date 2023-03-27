@@ -1,0 +1,9 @@
+discord
+asyncio
+discord.ext
+commands
+time
+os
+json
+datetime
+random
